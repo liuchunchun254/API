@@ -1,0 +1,10 @@
+完成程度：
+基本要求已完成，但扩展并未完成。
+有尝试着编写数据库存储，但因为这一块完成程度不高则删除了。
+
+共有六个Java类
+APIMessage.java与ResultData.java为实体类。
+MainActivity.java进行API数据解析，
+AppDomeListView.java进行数据通过listView进行展示。
+ShowData.java为点击单个listview之中的item进行跳转详细信息。
+MyImageView.java继承ImageView类，编写网络照片读取。所读取API中image为空时，设置背景图片为默认图片.
